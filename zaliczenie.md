@@ -136,7 +136,7 @@ sys	0m0.048s
 
 #### Punkty
 
-Wykonanie [geo1.js](https://github.com/pwiergowski/nosql_f/blob/master/pliki/geo1.js)
+Wykonanie [geo1.js](https://github.com/pwiergowski/nosql_f/blob/master/pliki/geo1.js) [rezultat](https://github.com/pwiergowski/nosql_f/blob/master/geojson/geo1result.geojson)
 
 ```
 #!bash
