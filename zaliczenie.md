@@ -115,7 +115,7 @@ time psql -U postgres -d postgres -c "SELECT COUNT(DISTINCT(data->>'subreddit'))
 
 # GeoJSON
 
-# Import MongoDB
+## Import MongoDB
 
 
 ```
@@ -131,3 +131,16 @@ user	0m0.084s
 sys	0m0.048s
 
 ```
+
+### Dzialania
+
+#### Punkty
+
+Wykonanie [geo1.js](https://github.com/pwiergowski/nosql_f/blob/master/pliki/geo1.js)
+
+```
+#!bash
+mongo geo geo1.js
+
+```
+<script src="https://github.com/pwiergowski/nosql_f/blob/master/geojson/geo1result.geojson"></script>
