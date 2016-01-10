@@ -14,7 +14,7 @@ Przydzialone:
 - 250 GB przestrzeni dyskowej
 
 ## 1.Przygotowanie
-Pobranie pliku [RC_2015-01.bz2](https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2015/RC_2015-01.bz2)
+Pobranie pliku [RC_2015-02.bz2](https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2015/RC_2015-02.bz2)
 
 ## MongoDB (mongo)
 ```
