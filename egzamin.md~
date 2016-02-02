@@ -27,7 +27,7 @@ Wykonanie [mdb_distinct_subreddit.js](https://github.com/pwiergowski/nosql_f/blo
 #!bash
 time mongo mongo < mdb_distinct_subreddit.js
 ```
-![mongo_distinct.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mongo_distinct.png)
+![mongo_distinct.png](https://github.com/pwiergowski/nosql/blob/master/image/mongo_distinct.png)
 
 ### Python
 Wykonanie [mdb_distinct_subreddit.py](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_distinct_subreddit.py)
@@ -35,7 +35,7 @@ Wykonanie [mdb_distinct_subreddit.py](https://github.com/pwiergowski/nosql_f/blo
 #!bash
 time python mdb_distinct_subreddit.py
 ```
-![mdb_distinct_subreddit.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_distinct_subreddit.png)
+![mdb_distinct_subreddit.png](https://github.com/pwiergowski/nosql/blob/master/image/mdb_distinct_subreddit.png)
 
 ## Map-Reduce
 ### JavaScript
@@ -44,7 +44,7 @@ Wykonanie [mdb_mr_distinct_subreddit.js](https://github.com/pwiergowski/nosql_f/
 #!bash
 time mongo mongo < mdb_mr_distinct_subreddit.js
 ```
-![mdb_mr_distinct_subreddit.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_mr_distinct_subreddit.png)
+![mdb_mr_distinct_subreddit.png](https://github.com/pwiergowski/nosql/blob/master/image/mdb_mr_distinct_subreddit.png)
 
 ### Python
 Wykonanie [mdb_mr_distinct_subreddit.py](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_distinct_subreddit.py)
@@ -52,5 +52,5 @@ Wykonanie [mdb_mr_distinct_subreddit.py](https://github.com/pwiergowski/nosql_f/
 #!bash
 time python mdb_mr_distinct_subreddit.py
 ```
-![mdb_distinct_subreddit.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_mr_distinct_subreddit_py.png)
+![mdb_distinct_subreddit.png](https://github.com/pwiergowski/nosql/blob/master/image/mdb_mr_distinct_subreddit_py.png)
 
