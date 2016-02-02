@@ -5,5 +5,4 @@
 1. [Zaliczenie](zaliczenie.md):
  - [X] EDA
 1. [Egzamin](egzamin.md)
- - [ ] Aggregation Pipeline
- - [ ] MapReduce
+ - [X] Aggregation Pipeline / Map-Reduce
