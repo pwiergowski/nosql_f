@@ -71,7 +71,7 @@ time python mdb_ksp_count.py
 ![mdb_ksp_count.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_ksp_count.png)
 wyniki python / mongo
 
-## Autorzy najwiekszej ilosci komentarzy w watku KerbalSpaceProgram i srednia ich ocen tych komentarzy  
+## Autorzy najwiekszej ilosci komentarzy w watku KerbalSpaceProgram i srednia ocen tych komentarzy  
 ##Agregation Pipeline
 ### JavaScript
 Wykonanie [mdb_ksp_top_10.js](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_ksp_top_10.js)
