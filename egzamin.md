@@ -54,3 +54,40 @@ time python mdb_mr_distinct_subreddit.py
 ```
 ![mdb_distinct_subreddit.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_mr_distinct_subreddit_py.png)
 
+## Ilosci komentarzy w watku KerbalSpaceProgram
+### JavaScript
+Wykonanie [mdb_ksp_count.js](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_ksp_count.js)
+```
+#!bash
+time mongo mongo < mdb_ksp_count.js
+```
+
+### Python
+Wykonanie [mdb_ksp_count.py](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_ksp_count.py)
+```
+#!bash
+time python mdb_ksp_count.py
+```
+![mdb_ksp_count.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_ksp_count.png)
+wyniki python / mongo
+
+## Autorzy najwiekszej ilosci komentarzy w watku KerbalSpaceProgram i srednia ich ocen tych komentarzy  
+##Agregation Pipeline
+### JavaScript
+Wykonanie [mdb_ksp_top_10.js](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_ksp_top_10.js)
+```
+#!bash
+time mongo mongo < mdb_ksp_top_10.js
+```
+
+### Python
+Wykonanie [mdb_ksp_top_10.py](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_ksp_top_10.py)
+```
+#!bash
+time python mdb_ksp_top_10.py
+```
+![mdb_ksp_top_10.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_ksp_top_10.png)
+wyniki python / mongo
+
+
+
