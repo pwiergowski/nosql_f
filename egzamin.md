@@ -89,5 +89,23 @@ time python mdb_ksp_top_10.py
 ![mdb_ksp_top_10.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_ksp_top_10.png)
 wyniki python / mongo
 
+## Autorzy najgorzej ocenianych komentarzy w danym temacie (subreddicie). Najgorsza 20.
+##Agregation Pipeline
+### JavaScript
+Wykonanie [mdb_bot_20_sub_aut.js](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_bot_20_sub_aut.js)
+```
+#!bash
+time mongo mongo < mdb_bot_20_sub_aut.js
+```
+
+### Python
+Wykonanie [mdb_bot_20_sub_aut.py](https://github.com/pwiergowski/nosql_f/blob/master/pliki/mdb_bot_20_sub_aut.py)
+```
+#!bash
+time python mdb_ksp_top_10.py
+```
+![mdb_ksp_top_10.png](https://github.com/pwiergowski/nosql_f/blob/master/image/mdb_bot_20_sub_aut.png)
+wyniki mongo / python
+
 
 
